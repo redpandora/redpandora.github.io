@@ -1,7 +1,7 @@
 # John P's Webpages on the net
 
 Hi, I'm a softaware developer and overall technology entusiast from Auckland New Zealand.
-Born in Lisbon, Portugal I have move to NZ several years ago and could not be happier here!
+Born in Lisbon, Portugal I haved move to NZ several years ago and could not be happier here!
 
 I split my time between my family and my projects.
 
