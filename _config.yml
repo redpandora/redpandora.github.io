@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+title: John P’s Webpages on the net
+description: My collection of projects and thoughts
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-hacker
