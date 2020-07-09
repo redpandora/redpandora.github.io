@@ -1,4 +1,8 @@
-# WiFi-ToolKit
+---
+layout: page
+title: WiFi-ToolKit
+permalink: /projects/wifi_toolkit
+---
 
 An IOT (esp8266) embeded Network Analysis and Intrusion Detection System written in pure C with Espressifs IDF and FreeRTOS operating system.
 
