@@ -1,2 +1,0 @@
-# .Net Core Microservices Library
-
