@@ -5,7 +5,7 @@ permalink: /projects/wifi_toolkit
 ---
 An IOT (esp8266) embedded Network Analysis and Intrusion Detection System written in pure C with Espressifs IDF and FreeRTOS operating system.
 
-This is an active project consuming practically all my time.
+This is an active project consuming practly all my time.
 
 I am not planning to share the source code since I consider it to be a very powerful and dangerous tool.
 
